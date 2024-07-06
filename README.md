@@ -34,7 +34,7 @@
 
 ### 4.1. 불필요한 컬럼 제거
 - applicationDate(출원일), astrtCont(초록), inventionTitle(발명의 명칭) 컬럼을 제외하고 나머지 제거
-- 
+
 ### 4.2. 날짜 컬럼 형식 변경
 - yyyy-mm-dd 형태의 applicationDate(출원일) 컬럼을 yyyy 형태로 변경(연도만 남김)
 
