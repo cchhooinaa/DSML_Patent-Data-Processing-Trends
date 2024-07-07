@@ -22,7 +22,7 @@
 - python 3.10.12
 
 ## 2. Project Pipeline
-
+![파이프라인](https://github.com/cchhooinaa/DSML_Data-Processing-Evolution_A-Patent-Driven-LDA-Analysis/assets/89292905/760559ff-8355-486c-a920-ae6acb958a1a)
 ## 3. Data
 > 특허정보활용서브시(KIPRIS Plus)에서 Open API 활용
 - 수집기간: 20150101 ~ 20240501
