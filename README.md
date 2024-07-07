@@ -1,4 +1,4 @@
-# DSML_Data-Processing-Evolution_A-Patent-Driven-LDA-Analysis
+# DSML_Patent-Data-Processing-Trends
 
 - 2024학년도 3학년 1학기 머신러닝기반데이터분석 팀 프로젝트 아카이빙 레포지토리
 
