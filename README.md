@@ -39,6 +39,7 @@ y: 디지털 데이터 처리 기술 트렌드
 
 ### 토픽 클러스터링 & 네트워크 시각화
 ![네트워크](plot/modeling_visualization/클러스터링%20및%20네트워크%20시각화.png)
+<img src="plot/modeling_visualization/클러스터링%20및%20네트워크%20시각화.png" width="600"/>
 
 ---
 
