@@ -56,6 +56,7 @@ y: 디지털 데이터 처리 기술 트렌드
 
 ## Pipeline
 ![파이프라인](https://github.com/cchhooinaa/DSML_Data-Processing-Evolution_A-Patent-Driven-LDA-Analysis/assets/89292905/760559ff-8355-486c-a920-ae6acb958a1a)
+<img src="[assets/eda_histogram.png](https://github.com/cchhooinaa/DSML_Data-Processing-Evolution_A-Patent-Driven-LDA-Analysis/assets/89292905/760559ff-8355-486c-a920-ae6acb958a1a)" width="500"/>
 
 ## Preprocessing
 
