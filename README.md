@@ -26,19 +26,19 @@ y: 디지털 데이터 처리 기술 트렌드
 <img src="plot/eda/eda.png" width="600"/>
 
 ### 토픽별 고빈도 단어 워드클라우드
-<img src="plot/modeling_visualization/토픽별%20고빈도%20단어%20워드클라우드.png" width="600"/>
+<img src="plot/modeling_visualization/토픽별%20고빈도%20단어%20워드클라우드.png" width="500"/>
 
 ### 토픽별 소속 특허 개수
-<img src="plot/modeling_visualization/토픽별%20소속%20특허%20개수.png" width="600"/>
+<img src="plot/modeling_visualization/토픽별%20소속%20특허%20개수.png" width="500"/>
 
 ### 토픽별 비율 연도 분포
-<img src="plot/modeling_visualization/토픽별%20비율%20연도%20분포.png" width="600"/>
+<img src="plot/modeling_visualization/토픽별%20비율%20연도%20분포.png" width="500"/>
 
 ### 토픽별 연도 분포 (개별 그래프)
-<img src="plot/modeling_visualization/토픽별%20연도%20분포_개별그래프.png" width="600"/>
+<img src="plot/modeling_visualization/토픽별%20연도%20분포_개별그래프.png" width="500"/>
 
 ### 토픽 클러스터링 & 네트워크 시각화
-<img src="plot/modeling_visualization/클러스터링%20및%20네트워크%20시각화.png" width="600"/>
+<img src="plot/modeling_visualization/클러스터링%20및%20네트워크%20시각화.png" width="500"/>
 
 ---
 
